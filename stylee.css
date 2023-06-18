@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav{
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.nav-options{
+
+}
+
+.nav-options ul{
+  display: flex;
+}
+
+.nav-options ul li{
+  text-decoration: none;
+  list-style: none;
+  margin-right: 70px;
+}
